@@ -10,7 +10,7 @@ As it was difficult to keep a track of such scenario. This Image Recognition sof
 **About Dataset:**
 
 The Dataset contains images of people wearing masks and people not wearing masks. The database contains 10,000 colored images in the training folder, 800 images in the validation folder, and 992 images in the test folder.
-I am unable to upload the dataset due to large file size. You can find many such datasets on Kaggle or can connect ask me for the same by connecting with me.
+I am unable to upload the dataset due to large file size. You can find many such datasets on Kaggle or can ask me for the same by connecting with me.
 
 **Task:**
 
